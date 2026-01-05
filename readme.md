@@ -5,3 +5,6 @@
 - Create a userSchema & user model
 - Create a POST / Signup API to add data to database
 - Push some documents using API calls from postman
+
+- Add the express.json middleware to the app
+- Make your signup API to receive data from the end user
